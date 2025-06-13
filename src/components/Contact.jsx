@@ -88,7 +88,7 @@ const Contact = () => {
         <input
           type="hidden"
           name="_next"
-          value="https://yourwebsite.com/thank-you"
+          value="https://mahesh41.netlify.app/thank-you"
         />
 
         {/* Submit Button */}
