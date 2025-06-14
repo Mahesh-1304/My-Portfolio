@@ -28,13 +28,7 @@ const Hero = () => {
               "Mahesh",
               2000,
               "",
-              500,
-              "a Data Analyst",
-              2000,
-              "an ML Developer",
-              2000,
-              "a Frontend Developer",
-              2000,
+          
             ]}
             wrapper="span"
             speed={50}
